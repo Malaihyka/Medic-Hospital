@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Medilab Bootstrap Template - Index</title>
+  <title>Medic+ GH - Index</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -43,9 +43,9 @@
   <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
     <div class="container d-flex">
       <div class="contact-info mr-auto">
-        <i class="icofont-envelope"></i> <a href="mailto:contact@example.com">contact@example.com</a>
-        <i class="icofont-phone"></i> +1 5589 55488 55
-        <i class="icofont-google-map"></i> A108 Adam Street, NY
+        <i class="icofont-envelope"></i> <a href="mailto:medicgh@govt.lc">medicgh@govt.lc</a>
+        <i class="icofont-phone"></i> +1 758 459 2000
+        <i class="icofont-google-map"></i> Hospital Road, Castries, St. Lucia
       </div>
       <div class="social-links">
         <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
@@ -77,10 +77,10 @@
               <li><a href="#">Drop Down 1</a></li>
               <li class="drop-down"><a href="#">Deep Drop Down</a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">FAQs</a></li>
                   <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Gallery</a></li>
+                  <li><a href="#">Contact</a></li>
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
               </li>
@@ -94,7 +94,7 @@
         </ul>
       </nav><!-- .nav-menu -->
 
-      <a href="#appointment" class="appointment-btn scrollto">Make an Appointment</a>
+      <a href="#appointment" class="appointment-btn scrollto">Patient Portal Login</a>
 
     </div>
   </header><!-- End Header -->
@@ -102,8 +102,8 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container">
-      <h1>Welcome to Medilab</h1>
-      <h2>We are team of talanted designers making websites with Bootstrap</h2>
+      <h1>Welcome to Medic+ GH</h1>
+      <h2>We are team of talented healthcare professionals making an impact in the industry!</h2>
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
     </div>
   </section><!-- End Hero -->
@@ -117,10 +117,11 @@
         <div class="row">
           <div class="col-lg-4 d-flex align-items-stretch">
             <div class="content">
-              <h3>Why Choose Medic+ ?</h3>
+              <h3>Why Choose Medic+ GH?</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+                At Medic+ GH, patient care is our primary responsibility. Our team of medical professionals are ready to care for you and your family.
+                  We have world class surgeons and specialists operating in each department and our outpatient clinic. Medic+ GH is dedicated to ensuring your safety during the COVID-19 pandemic.
+                  We offer free testing and treatment for COVID-19 in the newly constructed quarantined wing, specially equipped and designed to manage the illness.
               </p>
               <div class="text-center">
                 <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
@@ -132,23 +133,31 @@
               <div class="row">
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-receipt"></i>
-                    <h4>Corporis voluptates sit</h4>
-                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                    <i class="bx bx-mask"></i>
+                    <h4>Safety During COVID-19</h4>
+                    <p>Everyone is screened and wears a mask before entering any of our care facilities.
+                        We frequently and thoroughly clean and disinfect surfaces throughout all of our medical offices, waiting rooms, operating and procedure rooms, clinics and patient areas.
+                        We've redesigned our patient areas to ensure physical distancing, which protects you, other patients and our staff.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-cube-alt"></i>
-                    <h4>Ullamco laboris ladore pan</h4>
-                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                    <i class="bx bx-first-aid"></i>
+                    <h4>Hospital and Emergency Care</h4>
+                    <p>In accordance with guidance from the Ministry of Health in St. Lucia, Medic+ GH is performing select surgeries and procedures for our patients.
+                        We are prioritizing surgeries and procedures for patients based on a variety of factors, including medical condition and risk for disease progression.
+                        We have implemented procedures to include screening for COVID-19 and other added safety measures.
+                    </p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-images"></i>
-                    <h4>Labore consequatur</h4>
-                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                    <i class="bx bx-group"></i>
+                    <h4>Medic+ GH Community</h4>
+                    <p>Students visiting their school nurse’s office in Central Castries can be assessed by doctors at Medic+ GH for free. 
+                      The school nurse takes the student’s vitals, then connects with the doctor using a virtual tool.
+                      Parents can participate in the appointments through a call and hear about their child’s diagnosis or prescription, or ask questions.
+                     </p>
                   </div>
                 </div>
               </div>
@@ -169,25 +178,29 @@
           </div>
 
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p>
+            <h3>"Medic+ GH is transforming healthcare in St. lucia"</h3>
+            <p> Medic+ GH accommodates more than 50 thousand patients annually, including close to 5,000
+                infant deliveries and more than 20,000 emergency department visits. The facility started as a
+                health clinic with 5 beds, which rendered voluntary service, and turned out to be a public health
+                facility by the St. Lucian government in the year 2000. The hospital was upgraded from a 5 bed
+                capacity to 120 beds along with 8 additional beds in the Intensive Care Unit.</p>
 
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <div class="icon"><i class="bx bx-target-lock"></i></div>
+              <h4 class="title"><a href="">Our Mission</a></h4>
+              <p class="description">The mission of Medic+ GH is to improve the health of the St. Lucian community and the Caribbean by setting the standard of excellence in medicine and clinical care.</p>
             </div>
 
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <div class="icon"><i class="bx bx-plus-medical"></i></div>
+              <h4 class="title"><a href="">Our Vision</a></h4>
+              <p class="description">Medic+ GH pushes the boundaries of discovery and transforms health care using medical technology whilst offering cost effective care, creating hope for the nation.</p>
             </div>
 
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-atom"></i></div>
-              <h4 class="title"><a href="">Dine Pad</a></h4>
-              <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+              <div class="icon"><i class="bx bx-heart"></i></div>
+              <h4 class="title"><a href="">Our Core Values</a></h4>
+              <p class="description">Excellence, Leadership & Integrity, Diversity & Inclusion, Respect & Teamwork, Compassion.</p>
             </div>
 
           </div>
@@ -205,15 +218,15 @@
           <div class="col-lg-3 col-md-6">
             <div class="count-box">
               <i class="icofont-doctor-alt"></i>
-              <span data-toggle="counter-up">85</span>
-              <p>Doctors</p>
+              <span data-toggle="counter-up">22</span>
+              <p>Specialists</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
             <div class="count-box">
               <i class="icofont-patient-bed"></i>
-              <span data-toggle="counter-up">18</span>
+              <span data-toggle="counter-up">10</span>
               <p>Departments</p>
             </div>
           </div>
@@ -221,7 +234,7 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
               <i class="icofont-laboratory"></i>
-              <span data-toggle="counter-up">8</span>
+              <span data-toggle="counter-up">2</span>
               <p>Research Labs</p>
             </div>
           </div>
@@ -229,7 +242,7 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
               <i class="icofont-award"></i>
-              <span data-toggle="counter-up">150</span>
+              <span data-toggle="counter-up">50</span>
               <p>Awards</p>
             </div>
           </div>
@@ -245,55 +258,55 @@
 
         <div class="section-title">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Medic+ GH offers a wide range of world class health services, to cater to the needs of you and your family.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
               <div class="icon"><i class="icofont-heart-beat"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Cardiovascular Health</a></h4>
+              <p>Receive cost efficient cardiovascular disease assessment and treatment</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box">
-              <div class="icon"><i class="icofont-drug"></i></div>
-              <h4><a href="">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <div class="icon"><i class="icofont-capsule"></i></div>
+              <h4><a href="">Pharmaceutical</a></h4>
+              <p>Our in house pharmacy caters to all of your medication needs</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
-              <div class="icon"><i class="icofont-dna-alt-2"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <div class="icon"><i class="icofont-test-tube"></i></div>
+              <h4><a href="">COVID-19 Testing</a></h4>
+              <p>We offer free COVID-19 testing and treatment</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <div class="icon"><i class="icofont-heartbeat"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <div class="icon"><i class="icofont-ambulance"></i></div>
+              <h4><a href="">Emergency</a></h4>
+              <p>Our world class A&E department is fully equipped to handle the unexpected</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <div class="icon"><i class="icofont-disabled"></i></div>
-              <h4><a href="">Dele cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <div class="icon"><i class="icofont-dumbbell"></i></div>
+              <h4><a href="">Weight Loss Management</a></h4>
+              <p>Maintaining a healthy BMI is easy with Medic+ GH</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <div class="icon"><i class="icofont-autism"></i></div>
-              <h4><a href="">Divera don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <h4><a href="">Mental Health Services</a></h4>
+              <p>Medic+ GH has partnered with the Ministry of Health to provide counseling services during the COVID-19 pandemic</p>
             </div>
           </div>
 
@@ -406,7 +419,7 @@
 
         <div class="section-title">
           <h2>Departments</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p></p>
         </div>
 
         <div class="row">
@@ -419,14 +432,29 @@
                 <a class="nav-link" data-toggle="tab" href="#tab-2">Neurology</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-3">Hepatology</a>
+                <a class="nav-link" data-toggle="tab" href="#tab-3">General Medicine</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#tab-4">Pediatrics</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-5">Eye Care</a>
+                <a class="nav-link" data-toggle="tab" href="#tab-5">Oncology</a>
               </li>
+              <li class="nav-item">
+                 <a class="nav-link" data-toggle="tab" href="#tab-6">Endocrinology</a>
+               </li>
+               <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#tab-7">Immunology</a>
+                </li>
+                <li class="nav-item">
+                   <a class="nav-link" data-toggle="tab" href="#tab-8">Nephrology</a>
+                 </li>
+                 <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#tab-9">Obstetrics & Gynaecology</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" data-toggle="tab" href="#tab-10">A&E</a>
+                  </li>
             </ul>
           </div>
           <div class="col-lg-9 mt-4 mt-lg-0">
@@ -434,9 +462,12 @@
               <div class="tab-pane active show" id="tab-1">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Cardiology</h3>
-                    <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                    <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+                    <h3>We use the latest technology to assess your cardiovascular health.</h3>
+                    <p class="font-italic">Your heart is safe in our hands</p>
+                    <p> Cardiologists specialize in the care and treatment of the heart. If you have been diagnosed or suspect a heart condition, our team of cardiologists are available to help!
+                        We diagnose origins of arrhythmias and perform the appropriate treatments: radiofrequency catheter ablation for tachyarrhythmias, pacemaker for bradyarrhythmias, 
+                        ICD implantation for fatal arrhythmias and CRT for severe heart failure. 
+                    </p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/departments-1.jpg" alt="" class="img-fluid">
@@ -446,9 +477,13 @@
               <div class="tab-pane" id="tab-2">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Et blanditiis nemo veritatis excepturi</h3>
-                    <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                    <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
+                    <h3>Ranked #1 in the Eastern Caribbean.</h3>
+                    <p class="font-italic">We offer a wide range of treatment in neurological diseases</p>
+                    <p>Our world-class care is made possible by a renowned team of neurologists, neurosurgeons, nurses, physician assistants
+                       and others who have devoted their careers to helping patients and finding better ways to treat disease.Our physicians have areas of subspecialty 
+                       interest in neurology and many of them are national leaders in their field. We believe that all patients with neurological
+                       disease should have access to physicians who are exceptionally trained, committed to a patient’s well-being, and leaders in research to improve treatment and patient care.
+                    </p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
@@ -458,9 +493,11 @@
               <div class="tab-pane" id="tab-3">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Impedit facilis occaecati odio neque aperiam sit</h3>
-                    <p class="font-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p>
-                    <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
+                    <h3>Our team of family physicians are ready to care for you.</h3>
+                    <p class="font-italic">We assess, diagnose and treat a variety of internal medical conditions using the best medical practices</p>
+                    <p>The country's leading family physicians are available 24-7 to provide the best healthcare in internal medicine.
+                       The prevalence of patients with gallstone has been recently increasing and it is getting economic burden worldwide.  
+                       We investigate the mechanism of cholesterol gallstone formation focusing on the biliary lipid metabolism.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
@@ -470,9 +507,12 @@
               <div class="tab-pane" id="tab-4">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore</h3>
-                    <p class="font-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p>
-                    <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore</p>
+                    <h3>General pediatrics and adolescent medicine.</h3>
+                    <p class="font-italic">Medic+ GH specializes in infant and adolescent care using advanced medicinal techniques</p>
+                    <p>We treat over 10,000 infants yearly, for a plethora of rare diseases.
+                       The hospital boasts a 99% success rate in complex infant surgeries.The department of Pediatrics provide healthcare services for physical and mental conditions in children from 
+                       infancy through adolescence. In our department, 25 pediatricians have each special field, such as hematology, oncology, immunology, 
+                       neonatology, metabolic disease, neurology, endocrinology, allergology, rheumatology, cardiology, nephrology, and psychology.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
@@ -482,20 +522,105 @@
               <div class="tab-pane" id="tab-5">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Est eveniet ipsam sindera pad rone matrelat sando reda</h3>
-                    <p class="font-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p>
-                    <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
+                    <h3>Our constant support for your fight against cancer</h3>
+                    <p class="font-italic">Over 6,000 patients treated yearly.</p>
+                    <p>Our oncologists are specially trained to deal with over 50 types of rare cancers and treatment methods. The department has been recognized by the
+                       Minsitry of Health for their consistent dedication and support towards the battle against cancer.
+                       Our primary goal is to provide high quality expert service to the cancer patients. Our department has started intensity-modulated radiation therapy (IMRT)
+                       in 2008 and introduced the newest  IMRT technique “volumetric-modulated arc therapy (VMAT)” in 2010. We also actively provide stereotactic body radiotherapy (SBRT)
+                       which permits millimeters order precision for lung and liver cancers.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
+                    <img src="assets/img/departments-5.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
+               <div class="tab-pane" id="tab-6">
+                      <div class="row">
+                          <div class="col-lg-8 details order-2 order-lg-1">
+                              <h3>Keep healthy and balanced</h3>
+                              <p class="font-italic">The Endocrinology Department is equipped to diagnose and treat endocrinological disorders and diseases.</p>
+                              <p>
+                                  Medic+GH's top-ranked team of endocrinologists evaluate the relationship between nutrition and human disease to improve and maintain a person's health,
+                                  and are equipped to treat a range of endocrine disorders and dysfunctions.They work closely with other specialists in radiation oncology, surgery, obstetrics,
+                                  transplantation and other specialty areas to provide a multidisciplinary approach to a person's medical problems.
+                              </p>
+                          </div>
+                          <div class="col-lg-4 text-center order-1 order-lg-2">
+                              <img src="assets/img/departments-6.png" alt="" class="img-fluid">
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane" id="tab-7">
+                      <div class="row">
+                          <div class="col-lg-8 details order-2 order-lg-1">
+                              <h3>The Department of Immunology has joined the research for the COVID-19 vaccine</h3>
+                              <p class="font-italic">Our mission is to advance understanding of the function of the immune system in order to enhance our ability to fight infectious disease, cancer and autoimmune disease.</p>
+                              <p>
+                                  The Department of Immunology studies a wide spectrum of diseases interrelated by the molecular, cellular and genetic regulatory mechanisms that dictate the
+                                  immune responses associated with them. The department nurtures a highly interactive approach to basic
+                                  science that creates knowledge and fosters discovery of new treatments and diagnostic tests for patients with disease-specific problems, such as allergies, autoimmune diseases,
+                                  cancer, chronic inflammation, infections and tissue transplantation.
+                              </p>
+                          </div>
+                          <div class="col-lg-4 text-center order-1 order-lg-2">
+                              <img src="assets/img/departments-7.png" alt="" class="img-fluid">
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane" id="tab-8">
+                      <div class="row">
+                          <div class="col-lg-8 details order-2 order-lg-1">
+                              <h3>We are often consulted by other departments because of our degree of specialization</h3>
+                              <p class="font-italic">Nephrology is an area of internal medicine that implements the three core pillars of urinalysis, blood tests, and renal pathological diagnosis to examine and treat the whole body, not just the kidneys.</p>
+                              <p>
+                                  Nephrology health professionals are involved in the long-term treatment of patients. Starting with the diagnosis of proteinuria/hematuria, our department manages everything
+                                  from the initial stages of kidney disease to the terminal phase, including treatment of kidney disease and the introduction of dialysis and post-dialysis management.
+                                  In addition, we are often consulted by other departments regarding aging patients and advanced medical treatment options.
+                              </p>
+                          </div>
+                          <div class="col-lg-4 text-center order-1 order-lg-2">
+                              <img src="assets/img/departments-8.png" alt="" class="img-fluid">
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane" id="tab-9">
+                      <div class="row">
+                          <div class="col-lg-8 details order-2 order-lg-1">
+                              <h3>The Department of Obstetrics and Gynaecology comprises a very talented and multidisciplinary team of researchers, technicians and clinicians</h3>
+                              <p class="font-italic">The distinguished Obstetrics and Gynaecology Department at Medic+ GH provides modern comprehensive diagnostic and treatment modalities in a caring atmosphere for women through all stages of their life; through teenage, pregnancy and menopause.</p>
+                              <p>
+                                  Our specialized & expert medical team offers advanced maternity services for normal and high risk pregnancies, postpartum and family planning services,
+                                  infertility screening and treatments along with all endoscopic gynecological operations, conventional gynecology surgeries and medical therapies.
+                                  The department is well equipped for handling all types of high risk pregnancies and emergencies related to pregnancy and labor. Besides the routine obstetric care for uncomplicated pregnancies,
+                                  specialized care is provided in high risk cases.
+                              </p>
+                          </div>
+                          <div class="col-lg-4 text-center order-1 order-lg-2">
+                              <img src="assets/img/departments-9.jpg" alt="" class="img-fluid">
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane" id="tab-10">
+                      <div class="row">
+                          <div class="col-lg-8 details order-2 order-lg-1">
+                              <h3>We are fully equipped with the appropriate emergency medical service facilities, training and equipment in the accident and emergency department to help the victims of accidents</h3>
+                              <p class="font-italic">Ambulance services, paramedic services and other emergency care and services are provided to victims.</p>
+                              <p>
+                                  The accident and emergency department provides emergency medical services to patients who may suffer from cardiac arrests, trauma, mental illness, asthma and heart attacks. During road accidents or fall, the victim may experience trauma due to multiple injuries in different organs.
+                                  Our trained professionals handle this with care.Patients with serious illnesses and injuries are assessed at the accident and emergency department. A person may be brought in to the emergency room or given emergency care at the site of accident in case of the following:
+                                  severe hemorrhaging, loss of consciousness, poisoning, breathlessness, accidents and other medical emergencies.
+                              </p>
+                          </div>
+                          <div class="col-lg-4 text-center order-1 order-lg-2">
+                              <img src="assets/img/departments-10.png" alt="" class="img-fluid">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                 </div>
+               </div>
+           </div>
     </section><!-- End Departments Section -->
 
     <!-- ======= Doctors Section ======= -->
@@ -504,7 +629,7 @@
 
         <div class="section-title">
           <h2>Doctors</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Medic+ GH has a team of medical professionals who constantly deliver a high standard of patient care.</p>
         </div>
 
         <div class="row">
@@ -513,9 +638,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Walter White</h4>
+                <h4>Carrie Philips</h4>
                 <span>Chief Medical Officer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <p>"We are the leading providers in healthcare"</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -530,9 +655,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Anesthesiologist</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                <h4>Jenna Stern</h4>
+                <span>Chief of Surgery</span>
+                <p>"Over 8,000 successful surgeries and counting"</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -548,8 +673,8 @@
               <div class="pic"><img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>William Anderson</h4>
-                <span>Cardiology</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                <span>Pediatrician</span>
+                <p>"Your tender ones are safe in our care"</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -564,9 +689,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-4.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Neurosurgeon</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <h4>Steven Joseph</h4>
+                <span>Nephrology</span>
+                <p>"Treating hypertension and kidney failure"</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -588,52 +713,55 @@
 
         <div class="section-title">
           <h2>Frequently Asked Questions</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p></p>
         </div>
 
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse" href="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse" href="#faq-list-1">Is parking available at Medic+ GH? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-parent=".faq-list">
                 <p>
-                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                  Free parking is available for you and your visitors. Visitors should park in the visitor lot off the Main Entrance to the hospital whenever possible. 
+                  After 8 p.m., visitors must enter the hospital through the Emergency Department. 
+                  Visitors arriving after 8:00 p.m. may park in the Emergency Department lot but must move their vehicles by 7:00 a.m. to allow space for the emergency patients.
                 </p>
               </div>
             </li>
-
             <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2" class="collapsed">Where do I go for admittance to Medic+ GH? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-parent=".faq-list">
-                <p>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                </p>
+                  <p>
+                      If you are being admitted to the hospital, please check in at the Admitting Department, which is located on the left hand side of the main lobby.
+                  </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3" class="collapsed">What time is visiting hours? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-parent=".faq-list">
-                <p>
-                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                </p>
+                  <p>
+                      In all patient care areas except the Intensive Care Unit, visiting hours begin at 6 a.m.-7:00a.m, 12:00p.m.-1:00p.m and 3:p.m.-5:00p.m. daily. 
+                      Only two visitors per patient are permitted at a time. Visitors must be age 12 or older. The Intensive Care Unit visiting hours are 11 a.m.–3 p.m. and 4 p.m.–7 p.m. Only 1 visitor per patient at a time.
+                  </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-4" class="collapsed">Are patient meals free? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-parent=".faq-list">
                 <p>
-                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
+                  Admitted patients receive three free meals daily. Meals are delivered to the rooms as follows: Breakfast: 7:00a.m.-9:00a.m., Lunch: 12:00p.m.-2:00p.m., Dinner: 7:00p.m.-8:00p.m.
+                  Patients may purchase additional meals using their credit cards from 7:00a.m.-10:00p.m. Please be mindful that patient dietary restricitons ordered by the doctor will be adhered to.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">Does Medic+ GH admit patients without health insurance? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-5" class="collapse" data-parent=".faq-list">
                 <p>
-                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
+                  Patients with no health insurance must provide their NIC numbers upon admittance to the hospital.
                 </p>
               </div>
             </li>
@@ -642,6 +770,7 @@
         </div>
 
       </div>
+            
     </section><!-- End Frequently Asked Questions Section -->
 
     <!-- ======= Testimonials Section ======= -->
@@ -654,10 +783,10 @@
             <div class="testimonial-item">
               <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
               <h3>Saul Goodman</h3>
-              <h4>Ceo &amp; Founder</h4>
+              <h4>Teacher</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                The staff of Medic+ GH made me feel like I was at home. They offered much compassion through my pain and attended to my every need.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
@@ -666,11 +795,11 @@
           <div class="testimonial-wrap">
             <div class="testimonial-item">
               <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-              <h3>Sara Wilsson</h3>
-              <h4>Designer</h4>
+              <h3>John Lever</h3>
+              <h4>Gardener</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                I think I have found a new family at Medic+ GH! When I broke my leg last year, I was admitted there for a month. The nurses were very helpful when I needed to be mobile. 
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
@@ -679,11 +808,11 @@
           <div class="testimonial-wrap">
             <div class="testimonial-item">
               <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-              <h3>Jena Karlis</h3>
-              <h4>Store Owner</h4>
+              <h3>Janeiv Sylvester</h3>
+              <h4>Hairdresser</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                The staff at Medic+ GH are very professional! I was so impressed with their level of service, compassion and sense of urgemcy. I knew that my health truly mattered to them.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
@@ -693,10 +822,11 @@
             <div class="testimonial-item">
               <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
               <h3>Matt Brandon</h3>
-              <h4>Freelancer</h4>
+              <h4>Journalist</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                The protocols put in place to curb the spread of COVID-19 were taken seriously. The hospital was clean and social distance measures were being adhered to. Even during this pandemic,
+                  the staff at Medic+ GH made me feel safe.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
@@ -709,7 +839,8 @@
               <h4>Entrepreneur</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                The doctors ensured that I had a speedy recovery even when my health started to deteriorate. They made me hopeful and continued to encourage me on my weight loss journey to 
+                  achieve optimum health stats.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
@@ -726,7 +857,7 @@
 
         <div class="section-title">
           <h2>Gallery</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Team Medic is always prepared to cater to all your health needs.</p>
         </div>
       </div>
 
@@ -808,12 +939,12 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Contact your #1 healthcare provider</p>
         </div>
       </div>
 
       <div>
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d15484.648074014582!2d-61.00452028032061!3d14.008405662552068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m5!1s0x8c406700c09b66b1%3A0x86926f65dad0af1c!2sHospital%20Rd%2C%20St%20Lucia!3m2!1d14.008384999999999!2d-60.9957655!4m0!5e0!3m2!1sen!2s!4v1603475903467!5m2!1sen!2s" frameborder="0" allowfullscreen></iframe>
       </div>
 
       <div class="container">
@@ -824,19 +955,19 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Hospital Road, Castries, St.Lucia</p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>medicgh@govt.lc/p>
               </div>
 
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+1 758 459 2000</p>
               </div>
 
             </div>
@@ -889,13 +1020,13 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Medilab</h3>
+            <h3>Medic+ GH</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Hospital Road <br>
+              Castries<br>
+              St. Lucia<br><br>
+              <strong>Phone:</strong> +1 758 459 2000<br>
+              <strong>Email:</strong> medicgh@govt.lc<br>
             </p>
           </div>
 
@@ -913,17 +1044,17 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Cardiovascular Health</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Pharmaceutical</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">COVID-19 Testing</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Emergency</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Weight Loss Management</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p>Sign up to receive COVID-19 health alerts</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -937,7 +1068,7 @@
 
       <div class="mr-md-auto text-center text-md-left">
         <div class="copyright">
-          &copy; Copyright <strong><span>Medilab</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>Medic+ GH</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
